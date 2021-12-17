@@ -1,5 +1,10 @@
+### Find my personal website here: <https://www.tomcaspar.me>
+
+Currently studying `Bachelor of Engineering [Honours] (Software)` at Swinburne University, Australia.
+
 [![Tea-Sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tea-Sea&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tea-Sea&theme=dark&layout=compact)
 <!--
 **Tea-Sea/Tea-Sea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
