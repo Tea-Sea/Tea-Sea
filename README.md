@@ -1,6 +1,8 @@
 ### Find my personal website here: <https://www.tomcaspar.me>
 
-Currently studying `Bachelor of Engineering [Honours] (Software)` at Swinburne University, Australia.
+Studied `Bachelor of Engineering [Honours] (Software)` at Swinburne University, Australia.
+
+Currently tinkering to improve in C++.
 
 [![Tea-Sea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tea-Sea&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
